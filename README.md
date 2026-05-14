@@ -1,2 +1,2 @@
 # reddit_json_scrapper
-Done solely for educational purposes with no malicious intent
+This project was created solely for educational purposes and is not intended for malicious use.
